@@ -163,7 +163,7 @@ the next stage.
 Open a terminal (PowerShell or Git Bash) in the project folder:
 
 ```bash
-cd D:\OOAD\expert-system
+cd "D:\expert system iai"
 ```
 Create a virtual environment (a private Python just for this project):
 ```bash
@@ -187,7 +187,7 @@ pip install -r requirements.txt
 
 ### Every time (run the app)
 ```bash
-cd D:\OOAD\expert-system
+cd "D:\expert system iai"
 ```
 ```bash
 .venv\Scripts\Activate.ps1
